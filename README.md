@@ -63,5 +63,4 @@ This code implements an environmental sensor for temperature, humidity, and CO2 
 
 **License:**
 
-This code is provided for educational purposes only. You are free to modify and use it as needed, but please respect the original authorship.
-
+See LICENSE
