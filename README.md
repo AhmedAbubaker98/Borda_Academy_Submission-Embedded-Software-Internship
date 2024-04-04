@@ -1,4 +1,4 @@
-# Borda_Academy_Submission-Embedded-Software-Internship
+# Borda Academy Embedded Software Internship Submission
 **Environmental Sensor for Borda Academy Embedded Software Development Qualification Exam**
 
 This code implements an environmental sensor for temperature, humidity, and CO2 on an ESP32 platform. It utilizes Bluetooth Low Energy (BLE) to transmit filtered sensor data to a connected device.
